@@ -1,0 +1,11 @@
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/bin/Debug/netcoreapp2.1/exercise8FamilyDictionary.deps.json
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/bin/Debug/netcoreapp2.1/exercise8FamilyDictionary.runtimeconfig.json
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/bin/Debug/netcoreapp2.1/exercise8FamilyDictionary.runtimeconfig.dev.json
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/bin/Debug/netcoreapp2.1/exercise8FamilyDictionary.dll
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/bin/Debug/netcoreapp2.1/exercise8FamilyDictionary.pdb
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/obj/Debug/netcoreapp2.1/exercise8FamilyDictionary.csprojAssemblyReference.cache
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/obj/Debug/netcoreapp2.1/exercise8FamilyDictionary.csproj.CoreCompileInputs.cache
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/obj/Debug/netcoreapp2.1/exercise8FamilyDictionary.AssemblyInfoInputs.cache
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/obj/Debug/netcoreapp2.1/exercise8FamilyDictionary.AssemblyInfo.cs
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/obj/Debug/netcoreapp2.1/exercise8FamilyDictionary.dll
+/Users/lauren/workspace/csharp/exercise8FamilyDictionary/obj/Debug/netcoreapp2.1/exercise8FamilyDictionary.pdb
